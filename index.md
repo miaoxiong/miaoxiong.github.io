@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-I am a master candidate at Department of  Electronic and Communication of Xiamen University and expected to graduated in June 2016. I'm a optimistic and dedicated guy. Devote to Computer, Philosophy and Psychology. My interest hobbies are widespread, like basketball,instrument swimming, travel etc.
+I am a master candidate at Department of  Electronic and Communication of Xiamen University. I'm a optimistic and dedicated guy. Devote to Computer, Philosophy and Psychology. My interest hobbies are widespread, like basketball,instrument swimming, travel etc.
 
 My dreams are:
 
