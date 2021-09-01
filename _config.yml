@@ -1,2 +1,4 @@
 markdown: rdiscount 
 
+# set timezone
+timezone: Asia/Shanghai
